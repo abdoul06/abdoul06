@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdoul06
+- 👋 Hi, I’m Abdillahi Hussein
 - 👀 I’m interested in Java Script, 
-- 🌱 I’m currently learning Angular JS. 
+- 🌱 I’m currently Web Developer. 
 - 💞️ I’m looking to collaborate on project built on angular js. 
 - 📫 How to reach me hussein406@hotmail.com 
 
